@@ -1,6 +1,6 @@
 # Backend with Go
 
-doing randow shits with go and sql with docker
+doing random shits with go and sql with docker
 
 [Link to refer](https://dev.to/techschoolguru/series/7172)
 
